@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Smart Health raro NFT's
+# 🔮 Smart Health raro NFT's
 
 The rare smart health NFT's is one of the main factors that decide how many tokens you can get. The rare level of the nfts ( sneaker nft, smartwatch nft and eye cover nft) affects the attributes of the NFts, which are:
 

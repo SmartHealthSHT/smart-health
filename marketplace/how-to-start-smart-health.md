@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# How to start smart health ?
+# ⚓ How to start smart health ?
 
 1. Download the smart health app on your smartphone\
 

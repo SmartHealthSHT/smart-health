@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Level upgrades
+# ⏫ Level upgrades
 
 You can upgrade your nft's to increase their stats, starting at level 0 up to level 100.With each level upgrade, you will receive Optimization points, as follows:
 

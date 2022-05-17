@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Energy System
+# 💡 Energy System
 
 After purchasing an nft from the smart health collection, you will receive a daily amount of energy, in which you will have the maximum time available to earn SHT for the day. However, if you run out of energy in the middle of the activity, you can continue the practice, although you will not earn it after that available time.
 

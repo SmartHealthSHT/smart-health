@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Smart Health Stimulus
+# 🌠 Smart Health Stimulus
 
 The project adopted systems to stimulate the practice of physical exercises, where the user will have 2 levels of challenges, with the following settings:
 

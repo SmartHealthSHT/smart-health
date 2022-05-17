@@ -3,7 +3,7 @@ description: Smart health
 coverY: 0
 ---
 
-# SHT
+# 🥇 SHT
 
 <mark style="background-color:purple;">SHT  - Smart health</mark>\ <mark style="background-color:purple;"></mark>\ <mark style="background-color:purple;"></mark>Total supply SHT  token: 50,000,000 SHT\
 Presale 34%\

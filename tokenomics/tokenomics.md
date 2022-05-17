@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Tokenomics
+# 🪙 Tokenomics
 
 Definition of smart health tokens:
 

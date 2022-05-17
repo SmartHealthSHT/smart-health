@@ -1,4 +1,4 @@
-# Attributes of NFTs intelligent health
+# 🧿 Attributes of NFTs intelligent health
 
 Initially we will have 3 main groups of NFT available, they are:
 

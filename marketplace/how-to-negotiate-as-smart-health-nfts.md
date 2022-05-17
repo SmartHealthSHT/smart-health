@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# How to negotiate as smart health NFT's ?
+# 🧲 How to negotiate as smart health NFT's ?
 
 smart health users can buy, sell and trade their nft's on our marketplace platform by following the steps below:
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# SMART HEALTH box Legendary
+# ⚙ SMART HEALTH box Legendary
 
 Our Legendary box is a bonus for users who purchase it initially or who have been active in the app for a while, where they will be given rewards and in-game features that will allow them to earn more $SHT tokens.
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Fusão das NFT’s smart health
+# 👥 Fusão das NFT’s smart health
 
 In the fusion feature, users will be able to cover their SMART HEALTH NFT mix in the following ways:
 
