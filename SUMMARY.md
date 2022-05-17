@@ -24,8 +24,12 @@
 
 ## marketplace
 
-* [marketplace](marketplace/marketplace.md)
+* [Marketplace](marketplace/marketplace.md)
+* [How to start smart health ?](marketplace/how-to-start-smart-health.md)
+* [How to negotiate as smart health NFT's ?](marketplace/how-to-negotiate-as-smart-health-nfts.md)
+* [Legendary smart health boxes](marketplace/legendary-smart-health-boxes.md)
 
-## Group 2
+## Tokenomics
 
-* [Tokenomics](group-2/tokenomics.md)
+* [Tokenomics](tokenomics/tokenomics.md)
+* [SHT](tokenomics/sht.md)
